@@ -1,0 +1,5 @@
+{
+  "name": "gh-issue-links",
+  "owner": { "name": "adamico" },
+  "plugins": [{ "name": "gh-issue-links", "source": "./" }]
+}
